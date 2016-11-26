@@ -61,7 +61,6 @@ This is open for anyone to contribute.  It is pretty basic but I am looking at m
 ## Credits
 
 - [Gene Kelly](https://github.com/ewkcoder)
-- [All Contributors][link-contributors]
 
 
 ## License

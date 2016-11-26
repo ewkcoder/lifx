@@ -30,13 +30,11 @@ This project was started as a means for communicating results in a PHP/MySQL web
 2. Sign in to LIFX Cloud (https://cloud.lifx.com/sign_in)
 3. Click email in top right and then click settings.
 4. Generate new API token
-5. include "lifx.php" in your PHP script.
+5. include "lifx.php" in your PHP script & create object.
 
 ``` php
 include "lifx.php"
 ```
-
-6. Create object.
 
 ``` php
 //Pass in API token

@@ -44,6 +44,12 @@ $lights=new Lifx("YOUR_API_KEY");
 $lights=new Lifx();
 ```
 
+## Additional Notes
+
+Moving a bulb to a different network caused some issues.  After doing this I had to claim my bulb via the mobile app or the API would not find it.  This URL helped out a lot.
+
+https://support.lifx.com/hc/en-us/articles/203711234-Connecting-your-LIFX-to-the-Cloud
+
 
 ## API Reference
 

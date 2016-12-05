@@ -24,6 +24,9 @@ $lights->states($arr);
 
 This project was started as a means for communicating results in a PHP/MySQL web portal to the physical world via a light bulb. 
 
+https://www.youtube.com/watch?v=fyV9ejrJONw
+
+
 ## Installation
 
 1. Sign up via app and connect light(s).
